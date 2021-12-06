@@ -11,7 +11,7 @@
 **1. git version**
 > 깃 설치 여부를 확인하고, 해당 창을 금일 시간이 보이게 캡쳐하여 첨부하세요. (해당 라인은 지워주세요)   
 
-![깃 설치 버전](![git-version](https://user-images.githubusercontent.com/91924618/144797951-e7e42a4f-16c2-4b05-a963-24da814e29ae.PNG))
+![깃 설치 버전]((https://user-images.githubusercontent.com/91924618/144797951-e7e42a4f-16c2-4b05-a963-24da814e29ae.PNG))
 
 **2. github repository**  
 레파지토리 주소: <http://example.com/>
